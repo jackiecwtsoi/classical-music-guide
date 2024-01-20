@@ -10,7 +10,7 @@ In my opinion on the high level, there are three major things when it comes to a
 But in all honesty, I believe whatever musical genre one is exploring, what ultimately matters is whether the music sounds good and makes one enjoy it. So in this guide, all the theoretical and conceptual stuff about classical music is going to come in later, and the first thing I'd like you to do, is to follow Step 1.
 
 ## Step 1. What Do You Think?
-What better way to get started to classical music than to listen to it? So I've listed down two pieces that I'd like you to try (in the specified order), and try answer all the questions while you listen. Note that the term "pieces" is a special term in classical music which basically means the same as "songs", and I'll be using "pieces" throughout this guide.
+What better way to get started on classical music than to listen to it? So I've listed down two pieces that I'd like you to try (in the specified order), and try answer all the questions while you listen. Note that the term "pieces" is a special term in classical music which basically means the same as "songs", and I'll be using "pieces" throughout this guide.
 1. [***Moonlight Sonata***](https://www.youtube.com/watch?v=Ey4n8vqlX_o), Ludwig van Beethoven
     1. This piece is called "Moonlight", so try close your eyes while you listen to it. Are there any emotions you feel while you listen? Can you describe them?
     2. This piece has three distinct sections with very different vibes. Can you identify them and what feelings you have for each of them?
@@ -83,7 +83,7 @@ Like when we listen to pop songs, I'd say the best way to listen to some classic
     - What is that one thing about the piece that you remember from your listening?
     - Do you like it? Do you not like it?
 
-I'd say the emotion part is really the focus here, because that is ultimately sticks with you about the piece. Watch [this video](https://www.youtube.com/watch?v=_ogVYKwgFJc&t=2s) on how to look for expression and emotion in classical music.
+I'd say the emotion part is really the focus here, because that is what ultimately sticks with you about the piece. Watch [this video](https://www.youtube.com/watch?v=_ogVYKwgFJc&t=2s) on how to look for expression and emotion in classical music.
 
 ### Symphonies and Concertos
 In the concert we will attend, we will be listening to a  **symphony** as well as a **violin concerto**.
